@@ -20,7 +20,7 @@
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/000539.9c4yMHqS)
 <a href="https://cursos.aluralingua.com.br/user/italo-alves">
-  <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.1001cupomdedescontos.com.br%2Fcupom-de-desconto-alura-lingua&psig=AOvVaw16TDgP0mPQo7ufaL9cIph5&ust=1678555261213000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj_tIHw0f0CFQAAAAAdAAAAABAD" width="50" height = "50">
+  <img src="https://cdn.imp-multimedia.com/logos/br/cupom-de-desconto-alura-lingua.png" width="50" height = "50">
 </a>
 
 
