@@ -16,7 +16,7 @@
 
 </div>
 
-#### Inglês |Duolingo| , |Alura Língua|
+#### |Inglês|
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/000539.9c4yMHqS)
  <a href="https://cursos.aluralingua.com.br/user/italo-alves">
