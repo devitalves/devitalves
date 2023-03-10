@@ -16,9 +16,10 @@
 
 </div>
 
-#### Inglês |my duolingo|
+#### Inglês |Duolingo|, |Alura Língua|
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/000539.9c4yMHqS)
+[![AluraLíngua]([https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white](https://www.aluralingua.com.br/assets/api/share/alura-lingua.jpg))](https://www.duolingo.com/profile/000539.9c4yMHqS)
 
 
 #### Cursos e Certificados
